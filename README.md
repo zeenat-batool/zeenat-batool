@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Hi, I'm Zeenat Batool 👋
+# Hi, I'm Zeenat Batool 
 
-### Aspiring Software & App Developer 💻
+### Aspiring Software & App Developer 
 
 **BS Computer Science Student | Pakistan**
 
@@ -17,19 +17,19 @@ and problem-solving through coding.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 BS Computer Science Student
-- 💻 Interested in Software Development
-- 📱 Exploring App Development with Flutter
-- 🐍 Learning Python Programming
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Improving my coding and problem-solving skills
-- 🎯 My goal is to become a skilled Software Developer
+-  BS Computer Science Student
+-  Interested in Software Development
+-  Exploring App Development with Flutter
+-  Learning Python Programming
+-  Practicing Data Structures & Algorithms
+-  Improving my coding and problem-solving skills
+-  My goal is to become a skilled Software Developer
 
 ---
 
-## 🛠️ Languages & Technologies
+##  Languages & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +49,7 @@ and problem-solving through coding.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Python Programming
 - Data Structures & Algorithms
@@ -60,7 +60,7 @@ and problem-solving through coding.
 
 ---
 
-## 🚀 My Goals
+##  My Goals
 
 - Build real-world software projects
 - Develop mobile applications
@@ -70,7 +70,7 @@ and problem-solving through coding.
 
 ---
 
-## 📂 My Projects
+##  My Projects
 
 I'm currently learning and building projects.
 My repositories will showcase my coding journey
@@ -80,7 +80,7 @@ and practical implementations.
 
 <div align="center">
 
-### ✨ Learning Every Day, Building Step by Step ✨
+###  Learning Every Day, Building Step by Step 
 
 **Thanks for visiting my GitHub profile!**
 
